@@ -1,0 +1,38 @@
+{
+  "name": "generator-tsx-component",
+  "version": "0.3.2",
+  "description": "A yeoman generator for reusable React Components",
+  "homepage": "",
+  "author": {
+    "name": "Jose Miguel Bejarano",
+    "email": "yo@josemiguel.org",
+    "url": "josemiguel.org"
+  },
+  "files": [
+    "generators"
+  ],
+  "main": "generators/index.js",
+  "keywords": [
+    "react",
+    "component",
+    "yeoman",
+    "storybook",
+    "jest",
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "chalk": "^1.0.0",
+    "gulp-rename": "^2.0.0",
+    "lodash": "^4.17.2",
+    "yeoman-generator": "^1.1.1",
+    "yosay": "^2.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^3.12.0",
+    "yeoman-assert": "^3.0.0",
+    "yeoman-test": "^1.0.0"
+  },
+  "repository": "xDae/generator-create-react-component",
+  "scripts": {},
+  "license": "MIT"
+}
